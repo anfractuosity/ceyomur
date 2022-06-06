@@ -11,3 +11,5 @@ echo "power on" | bluetoothctl
 
 python3 enablewifi.py
 ```
+
+Tested on the Ceyomur CY65 camera.
